@@ -1,12 +1,8 @@
-# {Author Name}
-Beryl Negesa
-# {Project Name}
-My Portfolio
-# {Description of projectt}
-My Portfolio is a webpage about me,my projects so far and my skills and education.
-## Technologies Used
-Languages used HTML & CSS.
-# {Link to live version of site on GitHub Pages}
+Author:{Beryl Negesa}
+Project Name:{My Portfolio}
+Description:{My Portfolio is a webpage about me,my projects so far and my skills and education}
+Languages used:{HTML & CSS}
+Live Link{}
 
 # {Copyright and license information}
 Portfolio &copy 2020 Version 1.0.
