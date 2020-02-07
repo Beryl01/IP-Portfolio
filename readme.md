@@ -4,9 +4,7 @@ Description:{My Portfolio is a webpage about me,my projects so far and my skills
 Languages used:{HTML & CSS}
 Live Link{}
 
-mamammamamamammakm
-mmmmmmmmmmmmmmmmmm
-mmmojj
+
 
 # {Copyright and license information}
 Portfolio &copy 2020 Version 1.0.
