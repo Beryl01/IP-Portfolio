@@ -1,7 +1,11 @@
-Author:{Beryl Negesa}
-Project Name:{My Portfolio}
-Description:{My Portfolio is a webpage about me,my projects so far and my skills and education}
-Languages used:{HTML & CSS}
+# {Author}
+Beryl Negesa Otieno
+# {Project Name}
+My Portfolio
+# {Project Description}
+My Portfolio is a webpage about me,my projects so far and my skills and education.
+# {Languages Used}
+HTML & CSS
 
 # {Live Link}
 https://beryl01.github.io/IP-Portfolio/
