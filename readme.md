@@ -7,5 +7,5 @@ Live Link{}
 Portfolio &copy 2020 Version 1.0.
 ## Support and contact details
 For Further questions and assistance reach me on:
-email: beryl00001@gmail.com.
+email: beryl00002@gmail.com.
 phone: +254 70123456.
