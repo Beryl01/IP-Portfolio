@@ -139,6 +139,10 @@ img{
 .message{
     width: 600px;
 }
+.change{
+    border: 0.9px solid darkgray;
+    border-radius: 15px;
+}
 /* portfolio */
 .gallery{
     display: grid;
@@ -168,13 +172,15 @@ footer{
       opacity: 0.7;
   }
 /* media */
-@media(max-width:700px){
+@media(min-width:480px){
+    body {
+        background-color: black;
+        color: white;
+    }
     .top-container{
         grid-template-areas: 
         'showcase showcase'
         'top-box-a top-box-b';
-    }
-    .wrapper{
         grid-auto-columns: 1fr;
     }
     .showcase h1{
@@ -198,7 +204,7 @@ footer{
         margin: auto;
     }
 }
-@media(max-width:700px){
+@media(min-width:480px){
     .top-container{
         grid-template-areas: 
         'showcase'
