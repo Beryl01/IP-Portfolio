@@ -172,16 +172,11 @@ footer{
       opacity: 0.7;
   }
 /* media */
-@media(min-width:480px){
-    body {
-        background-color: black;
-        color: white;
-    }
+@media(max-width:480px){
     .top-container{
         grid-template-areas: 
         'showcase showcase'
         'top-box-a top-box-b';
-        grid-auto-columns: 1fr;
     }
     .showcase h1{
         font-size: 2.5rem;
@@ -204,7 +199,7 @@ footer{
         margin: auto;
     }
 }
-@media(min-width:480px){
+@media(max-width:480px){
     .top-container{
         grid-template-areas: 
         'showcase'
