@@ -98,9 +98,11 @@ img{
 }
 .top-box-a{
     grid-area: top-box-a;
+    float: right;
 }
 .top-box-b{
     grid-area: top-box-b;
+    float: right;
 }
 .boxes{
     display: grid;
