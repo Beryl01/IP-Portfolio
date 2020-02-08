@@ -1,8 +1,8 @@
-# {Project Name}
+## {Project Name}
 My Portfolio
-# {Author}
+## {Author}
 Beryl Negesa Otieno
-# {Project Description}
+## {Project Description}
 My Portfolio is a webpage about me,my projects so far and my skills and education.
 ## {Project setup instructions}
 * Click on the live link.
@@ -13,10 +13,10 @@ My Portfolio is a webpage about me,my projects so far and my skills and educatio
 ## {Languages Used}
 * HTML
 * CSS
-# {Live Link}
+## {Live Link}
 https://beryl01.github.io/IP-Portfolio/
 
-# {Copyright and license information}
+## {Copyright and license information}
 Portfolio &copy 2020 Version 1.0.
 ## {Support and contact details}
 For Further questions and assistance reach me on:
