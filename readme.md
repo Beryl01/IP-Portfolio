@@ -1,5 +1,5 @@
 ## {Project Name}
-My Portfolio
+My-Portfolio
 
 ## {Author}
 Beryl Negesa Otieno
